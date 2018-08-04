@@ -1,2 +1,2 @@
 # Factorial
-factorial metjhod 
+factorial method
