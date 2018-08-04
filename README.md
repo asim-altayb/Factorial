@@ -1,0 +1,2 @@
+# Factorial
+factorial metjhod 
